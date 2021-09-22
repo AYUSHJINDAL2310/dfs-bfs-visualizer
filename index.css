@@ -1,0 +1,17 @@
+.b{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+h1{
+    margin-top: 0.6em;
+    font-weight: 800;
+    color: blueviolet;
+}
+body{
+}
